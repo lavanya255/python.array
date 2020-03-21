@@ -1,0 +1,6 @@
+arr=[26,257,89,45];
+max=arr[0];
+for i in range(),len(arr)):
+  if (arr[i]>max):
+    max=arr[i];
+print("largest element present in given array:",+str(max));
